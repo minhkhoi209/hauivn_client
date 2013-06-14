@@ -1,0 +1,33 @@
+<resources>
+
+    <string name="app_name">HauiVN</string>
+
+    <string name="welcome_title">Welcome to HauiSNS</string>
+
+    <string name="welcome_text">Please select one task to continue</string>
+
+    <string name="register_text">Register</string>
+
+    <string name="login_text">Login</string>
+
+    <string name="login_input">Username or Email</string>
+
+    <string name="user_password">Password</string>
+
+    <string name="login_btn_text">Login</string>
+
+    <string name="login_activity_title">Login HauiSNS</string>
+
+    <string name="user_email_reg">Email</string>
+
+    <string name="username_reg">Username</string>
+
+    <string name="email_confirm">Retype email adress</string>
+
+    <string name="user_password_confirmation">Retype password</string>
+
+    <string name="register_btn_txt">Register now</string>
+
+    <string name="register_activity_title">Register to connect</string>
+
+</resources>
